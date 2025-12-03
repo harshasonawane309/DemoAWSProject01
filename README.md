@@ -1,2 +1,2 @@
 # DemoAWSProject01
-Learning AWS Devops 
+Learning AWS Devops (pratical session)
